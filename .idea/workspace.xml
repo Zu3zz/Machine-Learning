@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ded3c88a-b7e5-4649-bc80-ffac1b688848" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/v2/03-KNN/02-kNN-in-scikit-learn/kNN/kNN1.py" afterDir="false" />
+    <list default="true" id="ded3c88a-b7e5-4649-bc80-ffac1b688848" name="Default" comment="finish knn &amp; knn in mnist">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v2/03-KNN/02-kNN-in-scikit-learn/02-kNN-in-scikit-learn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/v2/03-KNN/02-kNN-in-scikit-learn/02-kNN-in-scikit-learn.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v2/03-KNN/02-kNN-in-scikit-learn/kNN/kNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/v2/03-KNN/02-kNN-in-scikit-learn/kNN/kNN.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,40 +14,29 @@
     <SUITE FILE_PATH="coverage/MachineLearning$SimpleLinerRegression.coverage" NAME="SimpleLinerRegression Coverage Results" MODIFIED="1519619852907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/knn/mymodule" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/v2/03-KNN/02-kNN-in-scikit-learn/kNN/kNN.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="253">
-                  <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-                  <folding>
-                    <element signature="e#88#106#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/v2/03-KNN/02-kNN-in-scikit-learn/kNN/kNN1.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="345">
-                  <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="44" />
-                  <folding>
-                    <element signature="e#0#18#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v2/03-KNN/02-kNN-in-scikit-learn/kNN/kNN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="37" column="56" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
+              <folding>
+                <element signature="e#89#107#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/v2/03-KNN/03-Test-Our-Algorithm/playML/model_selection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -82,10 +67,10 @@
     </layout>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1681" />
+    <option name="x" value="1680" />
     <option name="y" value="-171" />
-    <option name="width" value="2559" />
-    <option name="height" value="1061" />
+    <option name="width" value="1705" />
+    <option name="height" value="933" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -177,18 +162,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517418545174</updated>
-      <workItem from="1564754527466" duration="1719000" />
+      <workItem from="1564754527466" duration="5734000" />
     </task>
+    <task id="LOCAL-00001" summary="add knn test &amp; accuracy">
+      <created>1564760600582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564760600582</updated>
+    </task>
+    <task id="LOCAL-00002" summary="finish knn &amp; knn in mnist">
+      <created>1564811193999</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564811193999</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1719000" />
+    <option name="totallyTimeSpent" value="5734000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1681" y="-171" width="2559" height="1061" extended-state="0" />
+    <frame x="1680" y="-171" width="1705" height="933" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09336512" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22669874" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -202,7 +202,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4952381" weight="0.32876712" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50476193" side_tool="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32969698" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -215,6 +215,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add knn test &amp; accuracy" />
+    <MESSAGE value="finish knn &amp; knn in mnist" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish knn &amp; knn in mnist" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/knn/05-Hyper-Parmeters.ipynb" />
@@ -302,21 +307,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/v2/03-KNN/02-kNN-in-scikit-learn/kNN/kNN1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="44" />
+        <state relative-caret-position="537">
+          <caret line="40" column="41" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="41" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/v2/03-KNN/Optional-03-kNN-for-MNIST/Optional-03-kNN-for-MNIST.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/v2/03-KNN/02-kNN-in-scikit-learn/kNN/kNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="185">
+          <caret line="37" column="56" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
           <folding>
-            <element signature="e#88#106#0" expanded="true" />
+            <element signature="e#89#107#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v2/03-KNN/03-Test-Our-Algorithm/playML/model_selection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
