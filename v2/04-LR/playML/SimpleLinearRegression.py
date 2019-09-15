@@ -59,7 +59,7 @@ class SimpleLinearRegression1:
         return "SimpleLinearRegression1()"
 
 
-class SimpleLinearRegression2:
+class SimpleLinearRegression:
     def __init__(self):
         """
         初始化Simple Linear Regression 模型
@@ -108,4 +108,4 @@ class SimpleLinearRegression2:
         return self.a_ * x_single + self.b_
 
     def __repr__(self):
-        return "SimpleLinearRegression2()"
+        return "SimpleLinearRegression()"
