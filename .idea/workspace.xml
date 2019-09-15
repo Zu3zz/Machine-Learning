@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ded3c88a-b7e5-4649-bc80-ffac1b688848" name="Default" comment="finish knn &amp; knn in mnist">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v2/04-LR/01-Simple-LR/playML/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v2/04-LR/01-Simple-LR/playML/kNN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v2/04-LR/01-Simple-LR/playML/metrics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v2/04-LR/01-Simple-LR/playML/model_selection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v2/04-LR/01-Simple-LR/playML/preprocessing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MachineLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MachineLearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v1/Numpy-learning/05-Numpy-array.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/v1/Numpy-learning/05-Numpy-array.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v2/03-KNN/02-kNN-in-scikit-learn/.ipynb_checkpoints/02-kNN-in-scikit-learn-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/v2/03-KNN/03-Test-Our-Algorithm/.ipynb_checkpoints/03-Test-Our-Algorithm-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/v2/03-KNN/04-Accuracy-Score/04-Accuracy-Score.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/v2/03-KNN/04-Accuracy-Score/04-Accuracy-Score.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v2/03-KNN/04-Accuracy-Score/playML/kNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/v2/03-KNN/04-Accuracy-Score/playML/kNN.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v2/03-KNN/05-Hyper-Parameters/05-Hyper-Parameters.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/v2/03-KNN/05-Hyper-Parameters/05-Hyper-Parameters.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v2/03-KNN/06-More-Hyper-Parameters-in-kNN-and-Grid-Search/06-More-Hyper-Parameters-in-kNN-and-Grid-Search.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/v2/03-KNN/06-More-Hyper-Parameters-in-kNN-and-Grid-Search/06-More-Hyper-Parameters-in-kNN-and-Grid-Search.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v2/03-KNN/08-Scaler-in-Scikit-Learn/08-Scaler-in-Scikit-Learn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/v2/03-KNN/08-Scaler-in-Scikit-Learn/08-Scaler-in-Scikit-Learn.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v2/03-KNN/08-Scaler-in-Scikit-Learn/playML/preprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/v2/03-KNN/08-Scaler-in-Scikit-Learn/playML/preprocessing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2/04-LR/01-Simple-LR.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2/04-LR/01-Simple-LR/01-Simple-LR.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/v2/04-LR/01-Simple-LR/01-Simple-LR.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2/04-LR/01-Simple-LR/playML/SimpleLinearRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/v2/04-LR/01-Simple-LR/playML/SimpleLinearRegression.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +102,7 @@
       <workItem from="1567690992322" duration="585000" />
       <workItem from="1567694056786" duration="25000" />
       <workItem from="1568531874850" duration="440000" />
-      <workItem from="1568540293426" duration="2439000" />
+      <workItem from="1568540293426" duration="3978000" />
     </task>
     <task id="LOCAL-00001" summary="add knn test &amp; accuracy">
       <created>1564760600582</created>
