@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ded3c88a-b7e5-4649-bc80-ffac1b688848" name="Default" comment="finish knn &amp; knn in mnist">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v2/04-LR/01-Simple-LR/playML/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v2/04-LR/01-Simple-LR/playML/kNN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v2/04-LR/01-Simple-LR/playML/metrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v2/04-LR/01-Simple-LR/playML/model_selection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v2/04-LR/01-Simple-LR/playML/preprocessing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MachineLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MachineLearning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/Numpy-learning/05-Numpy-array.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/v1/Numpy-learning/05-Numpy-array.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2/03-KNN/02-kNN-in-scikit-learn/.ipynb_checkpoints/02-kNN-in-scikit-learn-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2/03-KNN/03-Test-Our-Algorithm/.ipynb_checkpoints/03-Test-Our-Algorithm-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2/03-KNN/04-Accuracy-Score/04-Accuracy-Score.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/v2/03-KNN/04-Accuracy-Score/04-Accuracy-Score.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2/03-KNN/04-Accuracy-Score/playML/kNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/v2/03-KNN/04-Accuracy-Score/playML/kNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2/03-KNN/05-Hyper-Parameters/05-Hyper-Parameters.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/v2/03-KNN/05-Hyper-Parameters/05-Hyper-Parameters.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2/03-KNN/06-More-Hyper-Parameters-in-kNN-and-Grid-Search/06-More-Hyper-Parameters-in-kNN-and-Grid-Search.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/v2/03-KNN/06-More-Hyper-Parameters-in-kNN-and-Grid-Search/06-More-Hyper-Parameters-in-kNN-and-Grid-Search.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2/03-KNN/08-Scaler-in-Scikit-Learn/08-Scaler-in-Scikit-Learn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/v2/03-KNN/08-Scaler-in-Scikit-Learn/08-Scaler-in-Scikit-Learn.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2/03-KNN/08-Scaler-in-Scikit-Learn/playML/preprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/v2/03-KNN/08-Scaler-in-Scikit-Learn/playML/preprocessing.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,31 +29,6 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/MachineLearning$SimpleLinerRegression.coverage" NAME="SimpleLinerRegression Coverage Results" MODIFIED="1519619852907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/knn/mymodule" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/v2/03-KNN/02-kNN-in-scikit-learn/kNN/kNN.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="37" column="56" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
-              <folding>
-                <element signature="e#89#107#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/v2/03-KNN/03-Test-Our-Algorithm/playML/model_selection.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,68 +40,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/knn/mymodule/preprocessing.py" />
-        <option value="$PROJECT_DIR$/knn/mymodule/SimpleLinerRegression.py" />
-        <option value="$PROJECT_DIR$/Linear-Regression/mymodule/metrics.py" />
-        <option value="$PROJECT_DIR$/knn/mymodule/metrics.py" />
-        <option value="$PROJECT_DIR$/knn/mymodule/LinearRegression.py" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/v2/03-KNN/02-kNN-in-scikit-learn/kNN/kNN.py" />
-      </list>
-    </option>
-  </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
       <scroll-view-position x="0" y="0" />
     </layout>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1680" />
-    <option name="y" value="-171" />
-    <option name="width" value="1705" />
-    <option name="height" value="933" />
-  </component>
+  <component name="ProjectId" id="1QQ7VEWolnwSiNRm5EOgOTetIxP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Imooc-ML-notebook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Imooc-ML-notebook" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Imooc-ML-notebook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Imooc-ML-notebook" type="462c0819:PsiDirectoryNode" />
-              <item name="v2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Imooc-ML-notebook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Imooc-ML-notebook" type="462c0819:PsiDirectoryNode" />
-              <item name="v2" type="462c0819:PsiDirectoryNode" />
-              <item name="03-KNN" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -162,7 +107,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517418545174</updated>
-      <workItem from="1564754527466" duration="5734000" />
+      <workItem from="1564754527466" duration="7748000" />
+      <workItem from="1564842428950" duration="886000" />
+      <workItem from="1564844362183" duration="127000" />
+      <workItem from="1564844773537" duration="1213000" />
+      <workItem from="1567690690977" duration="78000" />
+      <workItem from="1567690784167" duration="148000" />
+      <workItem from="1567690992322" duration="585000" />
+      <workItem from="1567694056786" duration="25000" />
+      <workItem from="1568531874850" duration="440000" />
+      <workItem from="1568540293426" duration="2439000" />
     </task>
     <task id="LOCAL-00001" summary="add knn test &amp; accuracy">
       <created>1564760600582</created>
@@ -181,159 +135,25 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5734000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1680" y="-171" width="1705" height="933" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22669874" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32954547" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4952381" weight="0.32876712" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50476193" side_tool="true" weight="0.32876712" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32969698" />
-      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="right" id="R Packages" order="4" />
-      <window_info anchor="right" id="SciView" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add knn test &amp; accuracy" />
     <MESSAGE value="finish knn &amp; knn in mnist" />
     <option name="LAST_COMMIT_MESSAGE" value="finish knn &amp; knn in mnist" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/knn/05-Hyper-Parmeters.ipynb" />
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.3/python_stubs/1978755681/builtins.py" />
-    <entry file="file://$PROJECT_DIR$/knn/mymodule/preprocessing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="68" selection-start-line="23" selection-start-column="68" selection-end-line="23" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/knn/mymodule/module_select.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/knn/mymodule/SimpleLinerRegression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="733">
-          <caret line="76" column="62" selection-start-line="76" selection-start-column="62" selection-end-line="76" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/knn/mymodule/metrics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linear-Regression/08-Linear-Regression.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linear-Regression/mymodule/SimpleLinerRegression.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linear-Regression/mymodule/LinearRegression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/knn/mymodule/LinearRegression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="46" column="22" lean-forward="true" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linear-Regression/mymodule/metrics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="733">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/v2/03-KNN/03-Test-Our-Algorithm/playML/kNN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="46">
-            <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/v2/03-KNN/02-kNN-in-scikit-learn/kNN/kNN1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="40" column="41" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/v2/03-KNN/Optional-03-kNN-for-MNIST/Optional-03-kNN-for-MNIST.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/v2/03-KNN/02-kNN-in-scikit-learn/kNN/kNN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="37" column="56" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
-          <folding>
-            <element signature="e#89#107#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/v2/03-KNN/03-Test-Our-Algorithm/playML/model_selection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

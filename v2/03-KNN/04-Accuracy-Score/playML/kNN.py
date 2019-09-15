@@ -2,6 +2,7 @@ import numpy as np
 from math import sqrt
 from collections import Counter
 from .metrics import accuracy_score
+import sklearn.metrics
 
 class KNNClassifier:
 
@@ -55,5 +56,4 @@ class KNNClassifier:
 
     def __repr__(self):
         return "KNN(k=%d)" % self.k
-
 
