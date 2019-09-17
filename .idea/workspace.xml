@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ded3c88a-b7e5-4649-bc80-ffac1b688848" name="Default" comment="upgrade for loop into vectorization in LR">
+      <change afterPath="$PROJECT_DIR$/v2/04-LR/playML/LinearRegression.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v2/04-LR/01-Simple-LR/01-Simple-LR.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/v2/04-LR/01-Simple-LR/playML/SimpleLinearRegression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/v2/04-LR/01-Simple-LR/playML/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/v2/04-LR/01-Simple-LR/playML/kNN.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/v2/04-LR/01-Simple-LR/playML/metrics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/v2/04-LR/01-Simple-LR/playML/model_selection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/v2/04-LR/01-Simple-LR/playML/preprocessing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2/04-LR/.ipynb_checkpoints/MSE-vs-MAE-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/v2/04-LR/.ipynb_checkpoints/MSE-vs-MAE-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2/04-LR/MSE-vs-MAE.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/v2/04-LR/MSE-vs-MAE.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2/04-LR/playML/SimpleLinearRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/v2/04-LR/playML/SimpleLinearRegression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2/04-LR/playML/metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/v2/04-LR/playML/metrics.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +42,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="MachineLearning" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="MachineLearning" />
+      </console-settings>
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -107,7 +113,8 @@
       <workItem from="1567694056786" duration="25000" />
       <workItem from="1568531874850" duration="440000" />
       <workItem from="1568540293426" duration="5221000" />
-      <workItem from="1568554572059" duration="1031000" />
+      <workItem from="1568554572059" duration="1319000" />
+      <workItem from="1568616664699" duration="2571000" />
     </task>
     <task id="LOCAL-00001" summary="add knn test &amp; accuracy">
       <created>1564760600582</created>
