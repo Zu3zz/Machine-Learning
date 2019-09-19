@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ded3c88a-b7e5-4649-bc80-ffac1b688848" name="Default" comment="upgrade for loop into vectorization in LR">
-      <change afterPath="$PROJECT_DIR$/v2/04-LR/playML/LinearRegression.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v2/04-LR/.ipynb_checkpoints/MSE-vs-MAE-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/v2/04-LR/.ipynb_checkpoints/MSE-vs-MAE-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v2/04-LR/MSE-vs-MAE.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/v2/04-LR/MSE-vs-MAE.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v2/04-LR/playML/SimpleLinearRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/v2/04-LR/playML/SimpleLinearRegression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v2/04-LR/playML/metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/v2/04-LR/playML/metrics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2/05-Gradient-Descent/.ipynb_checkpoints/Gradient-Descent-In-LR-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/v2/05-Gradient-Descent/.ipynb_checkpoints/Gradient-Descent-In-LR-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2/05-Gradient-Descent/Gradient-Descent-In-LR.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/v2/05-Gradient-Descent/Gradient-Descent-In-LR.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2/05-Gradient-Descent/playML/LinearRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/v2/05-Gradient-Descent/playML/LinearRegression.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -115,6 +113,9 @@
       <workItem from="1568540293426" duration="5221000" />
       <workItem from="1568554572059" duration="1319000" />
       <workItem from="1568616664699" duration="2571000" />
+      <workItem from="1568880604075" duration="36000" />
+      <workItem from="1568880652496" duration="444000" />
+      <workItem from="1568881100451" duration="1285000" />
     </task>
     <task id="LOCAL-00001" summary="add knn test &amp; accuracy">
       <created>1564760600582</created>
